@@ -1,0 +1,22 @@
+{
+  "name": "pagseguro-api-charge",
+  "version": "1.0.0",
+  "description": "Cobrança PagSeguro API Charge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotiva/pagseguro-api-charge.git"
+  },
+  "author": "Vagner Ferrari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jotiva/pagseguro-api-charge/issues"
+  },
+  "homepage": "https://github.com/jotiva/pagseguro-api-charge#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
